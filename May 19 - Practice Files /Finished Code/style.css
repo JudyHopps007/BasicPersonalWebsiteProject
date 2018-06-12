@@ -1,0 +1,16 @@
+body {
+	font-family: arial;
+}
+
+h1 {
+	background-color:grey;
+	color: white;
+	margin-right:75%;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:10px;
+	padding-bottom:10px;
+
+button {
+ 	margin-left:100px;
+}
