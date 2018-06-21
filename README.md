@@ -21,7 +21,7 @@ First, download your <a href="">HTML</a> and <a href="">CSS</a> files.
 <ol>
   <li>Open the <a href="">script.js</a> file in your text editor.</li>
 <li>Look at the function in the JavaScript.</li>
-  <li>Add an id of “header” h1 in your HTML. <i><a href="https://www.w3schools.com/tags/att_global_id.asp">How do I add an ID to an HTML element?</a></i></li> 
+  <li>Add an id of “header” to <b>h1</b> in your HTML. <i><a href="https://www.w3schools.com/tags/att_global_id.asp">How do I add an ID to an HTML element?</a></i></li> 
 <li>Link your JavaScript function to your HTML button. <i><a href="https://www.w3schools.com/tags/att_global_id.asp">How do I link a JavaScript function to an HTML button?</a></i></li>
 <li>Save and refresh your page and test your button!</li>
 </ol>
