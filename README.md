@@ -5,7 +5,7 @@ First, download your <a href="">HTML</a> and <a href="">CSS</a> files.
 <ol>
   <li>Open the index.html file in your text editor and in your browser</li>
 <li>Edit the text to be custom to you.</li> 
-<li>Add a list of some things about you under <h2> and before <p>.</li>
+<li>Add a list of some things about you under h2 tag and before your p tag.</li>
 <li>Add a button.</li>
 </ol>
 <hr>  
