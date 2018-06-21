@@ -25,6 +25,7 @@ First, download your <a href="https://github.com/LibraryCodeLab/BasicPersonalWeb
 <li>Link your JavaScript function to your HTML button. <i><a href="https://www.w3schools.com/tags/att_global_id.asp">How do I link a JavaScript function to an HTML button?</a></i></li>
 <li>Save and refresh your page and test your button!</li>
 </ol>
+<hr>
 <b>Extra Practice</b>
 <ul>
   <li>Change the pictures to your own favorite books (or whatever!)</li>
