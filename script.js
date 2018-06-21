@@ -1,1 +1,3 @@
-function turnGreen () {document.getElementById("header").style.backgroundColor="green";
+function turnGreen () {
+  document.getElementById("header").style.backgroundColor="green";
+}
