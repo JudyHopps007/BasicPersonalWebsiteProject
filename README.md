@@ -1,5 +1,5 @@
 # Basic Website Project
-First, download your <a href="https://github.com/LibraryCodeLab/BasicPersonalWebsiteProject/blob/master/index.html">HTML</a> and <a href="https://github.com/LibraryCodeLab/BasicPersonalWebsiteProject/blob/master/script.js">JavaScript</a> files. You can also download the blank CSS document, or create your own.
+First, download your <a href="https://github.com/LibraryCodeLab/BasicPersonalWebsiteProject/blob/master/index.html">HTML</a> and <a href="https://github.com/LibraryCodeLab/BasicPersonalWebsiteProject/blob/master/script.js">JavaScript</a> files. You can also download the blank <a href="https://github.com/LibraryCodeLab/BasicPersonalWebsiteProject/blob/master/style.css">CSS</a> document, or create your own.
 
 <b>HTML</b>
 <ol>
