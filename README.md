@@ -3,10 +3,10 @@ First, download your <a href="">HTML</a> and <a href="">CSS</a> files.
 
 <b>HTML</b>
 <ol>
-  <li>Open the index.html file in your text editor and in your browser</li>
+  <li>Open the <a href="">index.html</a> file in your text editor and in your browser</li>
 <li>Edit the text to be custom to you.</li> 
-<li>Add a list of some things about you under h2 tag and before your p tag.</li>
-<li>Add a button.</li>
+  <li>Add a list of some things about you under <b>h2 tag</b> and before your <b>p tag</b>.</li>
+  <li>Add a button.<i><a href="https://www.w3schools.com/tags/tag_button.asp">How do I add a button?</a></i></li> 
 </ol>
 <hr>  
 <b>CSS</b>
@@ -19,10 +19,10 @@ First, download your <a href="">HTML</a> and <a href="">CSS</a> files.
 <hr>
 <b>JavaScript</b>
 <ol>
-<li>Open the script.js file in your text editor.</li>
+  <li>Open the <a href="">script.js</a> file in your text editor.</li>
 <li>Look at the function in the JavaScript.</li>
-<li>Add an id of “header” h1 in your HTML.</li>
-<li>Link your JavaScript function to your HTML button.</li>
+  <li>Add an id of “header” h1 in your HTML.<i><a href="https://www.w3schools.com/tags/att_global_id.asp">How do I add an ID to an HTML element?</a></i></li> 
+<li>Link your JavaScript function to your HTML button.<i><a href="https://www.w3schools.com/tags/att_global_id.asp">How do I link my JavaScript function to an HTML button?</a></i></li>
 <li>Save and refresh your page and test your button!</li>
 </ol>
 <b>Extra Practice</b>
