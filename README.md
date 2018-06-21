@@ -1,5 +1,5 @@
 # Basic Website Project
-First, download your <a href="">HTML</a> and <a href="">CSS</a> files.
+First, download your <a href="BasicPersonalWebsiteProject/index.html">HTML</a> and <a href="">CSS</a> files.
 
 <b>HTML</b>
 <ol>
