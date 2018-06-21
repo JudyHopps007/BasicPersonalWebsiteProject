@@ -12,7 +12,7 @@ First, download your <a href="">HTML</a> and <a href="">CSS</a> files.
 <b>CSS</b>
 <ol>
 <li>Open the style.css file in your text editor.</li>
-<li>Change all font to arial.</li>
+<li>Change all font to arial. <i><a href="https://www.w3schools.com/css/css_font.asp">How do I change the font in CSS?</a></i></li>
   <li>Add some formatting to your header. Give it a <a href="https://www.w3schools.com/cssref/pr_background-color.asp">background color</a>, a new <a href="https://www.w3schools.com/cssref/pr_text_color.asp">font color</a>, and add <a href="https://www.w3schools.com/Css/css_padding.asp">padding</a> around your text to make it look centered within the box.</li>
 <li>Move your button to the next line and add a margin to your button so that it is more centered.</li>
 </ol>
