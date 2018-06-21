@@ -1,5 +1,6 @@
-# codeLab
-First, download the class files from bitly.com/libcodelab
+# Basic Website Project
+First, download your <a href="">HTML</a> and <a href="">CSS</a> files.
+
 <b>HTML</b>
 <ol>
   <li>Open the index.html file in your text editor and in your browser</li>
